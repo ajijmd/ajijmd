@@ -15,15 +15,8 @@ I'm currently learning web development and building projects with PHP, MySQL, HT
 
 ## 🛠️ Technologies & Tools
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- Git
-- GitHub
 
-## 📌 Current Focus
-
-```text
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github" />
+</p>
 PHP → MySQL → Backend Development → Real Projects
