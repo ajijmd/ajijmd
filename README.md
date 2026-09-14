@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @ajijmd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Ajij
 
-<!---
-ajijmd/ajijmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Aspiring Web Developer | PHP Learner**
+
+I'm currently learning web development and building projects with PHP, MySQL, HTML, CSS and JavaScript.
+
+## 🚀 About Me
+
+- 🌱 Currently learning **PHP & MySQL**
+- 💻 Interested in **Web Development**
+- 🔐 Building small projects to improve my programming skills
+- 🎯 Goal: Become a **Professional Developer**
+- 📚 Currently focusing on **Backend Development**
+- ⚡ Fun fact: I enjoy learning by building real projects
+
+## 🛠️ Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Git
+- GitHub
+
+## 📌 Current Focus
+
+```text
+PHP → MySQL → Backend Development → Real Projects
